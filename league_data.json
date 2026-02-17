@@ -1,0 +1,46 @@
+{
+  "offer_role_ids": [
+    1175680647604469801,
+    1176009467901509774,
+    1175680790215012413
+  ],
+  "release_role_ids": [
+    1175680647604469801,
+    1176009467901509774,
+    1175680790215012413
+  ],
+  "offer_channel_id": 1174567245008076871,
+  "release_channel_id": 1464671851455451247,
+  "teams": {
+    "las vegas renegades": {
+      "team_name": "Las Vegas Renegades",
+      "team_role_id": 1459658107927003217,
+      "emoji": "<:renegades:1470814029193679030>"
+    },
+    "atlanta redhawks": {
+      "team_name": "Atlanta Redhawks",
+      "team_role_id": 1175646469173284924,
+      "emoji": "<:redhawks:1470841034845192265>"
+    },
+    "jacksonville jets": {
+      "team_name": "Jacksonville Jets",
+      "team_role_id": 1175646471463378974,
+      "emoji": "<:jets:1470840741566611496>"
+    },
+    "los angeles huskies": {
+      "team_name": "Los Angeles Huskies",
+      "team_role_id": 1175646473170468964,
+      "emoji": "<:huskies:1470840486053941518>"
+    },
+    "phoenix outlaws": {
+      "team_name": "Phoenix Outlaws",
+      "team_role_id": 1175646473996746824,
+      "emoji": "<:outlaws:1470840601518805043>"
+    },
+    "seattle nightwings": {
+      "team_name": "Seattle Nightwings",
+      "team_role_id": 1459658256493580449,
+      "emoji": "<:nightwings:1470840843916017891>"
+    }
+  }
+}
